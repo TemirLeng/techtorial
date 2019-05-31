@@ -1,4 +1,4 @@
-package aidana;
+package medet;
 
 import java.util.ArrayList;
 import java.util.List;
