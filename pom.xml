@@ -4,6 +4,19 @@
   <artifactId>techtorial</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>techtorial</name>
+
+    <!--<build>-->
+        <!--<plugins>-->
+            <!--<plugin>-->
+                <!--<groupId>org.apache.maven.plugins</groupId>-->
+                <!--<artifactId>maven-compiler-plugin</artifactId>-->
+                <!--<configuration>-->
+                    <!--<source>8</source>-->
+                    <!--<target>8</target>-->
+                <!--</configuration>-->
+            <!--</plugin>-->
+        <!--</plugins>-->
+    <!--</build>-->
   
   <dependencies>
       <!-- https://mvnrepository.com/artifact/org.testng/testng -->
@@ -11,7 +24,7 @@
           <groupId>org.testng</groupId>
           <artifactId>testng</artifactId>
           <version>6.14.3</version>
-          <scope>test</scope>
+          <!--<scope>test</scope>-->
       </dependency>
 
 
@@ -51,3 +64,4 @@
     </plugins>
   </build>
 </project>
+

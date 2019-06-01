@@ -1,4 +1,4 @@
-package aidana;
+package test.java.aidana;
 
 import java.util.ArrayList;
 import java.util.List;
