@@ -24,7 +24,11 @@
           <groupId>org.testng</groupId>
           <artifactId>testng</artifactId>
           <version>6.14.3</version>
+<<<<<<< HEAD
           <!--<scope>test</scope>-->
+=======
+          
+>>>>>>> b4897bc2f81c7687ca5d55b3f6e9a0fe2912cb61
       </dependency>
 
 
